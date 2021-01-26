@@ -1,0 +1,7 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+GitTestSuite01,Firefox 84.0,,,2021-01-26 23:49:14,2021-01-26 23:50:02,48.226s,PASSED
+,,,,,,,
+Test Cases/GitTestCase01,Firefox 84.0,Github Test Case,,2021-01-26 23:49:15,2021-01-26 23:50:02,46.876s,PASSED
+"openBrowser(""http://lifecharger.org/"")",Firefox 84.0,,,2021-01-26 23:49:16,2021-01-26 23:49:55,39.481s,PASSED
+delay(5),Firefox 84.0,,,2021-01-26 23:49:55,2021-01-26 23:50:00,5.030s,PASSED
+closeBrowser(),Firefox 84.0,,,2021-01-26 23:50:00,2021-01-26 23:50:02,2.028s,PASSED

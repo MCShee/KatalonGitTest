@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="GitTestSuite01" time="48.875" tests="1" failures="0" skips="0" errors="0">
+   <testsuite name="GitTestSuite01" tests="1" failures="0" errors="0" time="48.875" skips="0" timestamp="2021-01-26 23:49:14" hostname="DESKTOP-0RPNTT3$ - DESKTOP-0RPNTT3" id="Test Suites/GitTestSuite01">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="D:\\PFE\\Git Folder\\KatalonGitTest\\Reports\\20210126_234906\\GitTestSuite01\\20210126_234909"/>
+         <property name="logFiles" value="D:\\PFE\\Git Folder\\KatalonGitTest\\Reports\\20210126_234906\\GitTestSuite01\\20210126_234909\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="DESKTOP-0RPNTT3$ - DESKTOP-0RPNTT3"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="7.9.0.208"/>
+         <property name="browser" value="Firefox 84.0"/>
+         <property name="hostAddress" value="192.168.56.1"/>
+         <property name="sessionId" value="48916e8c-17bd-4d0f-8bc2-9aa34fe3eed4"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/GitTestCase01" time="46.876" classname="Test Cases/GitTestCase01" status="PASSED">
+         <system-out><![CDATA[2021-01-26 23:49:15 - [TEST_CASE][PASSED] - Test Cases/GitTestCase01: Test Cases/GitTestCase01
+
+2021-01-26 23:49:16 - [TEST_STEP][PASSED] - openBrowser("http://lifecharger.org/"): Browser is opened with url: 'http://lifecharger.org/'
+
+2021-01-26 23:49:16 - [MESSAGE][INFO] - Starting 'Firefox' driver
+
+2021-01-26 23:49:16 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2021-01-26 23:49:55 - [MESSAGE][PASSED] - Browser is opened with url: 'http://lifecharger.org/'
+
+2021-01-26 23:49:55 - [TEST_STEP][PASSED] - delay(5): Delayed 5 second(s)
+
+2021-01-26 23:50:00 - [MESSAGE][PASSED] - Delayed 5 second(s)
+
+2021-01-26 23:50:00 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2021-01-26 23:50:02 - [MESSAGE][PASSED] - Browser is closed]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2021-01-26 23:49:14 - [TEST_SUITE][PASSED] - GitTestSuite01: Test Cases/GitTestCase01]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
